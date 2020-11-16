@@ -17,6 +17,12 @@ Repository contents:
 - `Utils` - Various utility functions.
 
 
+Licensing information:
+- All source code in this repository is licensed under the [MIT license](LICENSE).
+- The included `libusb-1.0.dll` binary is part of the [libusb] project, which is
+  licensed under the [LGPL-2.1](LICENSE.libusb).
+
+
 [DiscUtils]: https://github.com/DiscUtils/DiscUtils
 [Dokan]: https://dokan-dev.github.io/
 [libusb]: https://libusb.info/
